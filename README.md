@@ -37,15 +37,15 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [ ] Better visualization.
 
 
-## Step
-
-- [X] Research and understand the term, concept and requirement of the project.
-
-	* What are the requirements ?
+## What are the requirements ?
 
 	- to model a house in 3D with only a home address
 
 	- with those points clouds we can easily identify houses, vegetation, roads, etc...The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
+
+## Step
+
+- [X] Research and understand the term, concept and requirement of the project.
 
 - [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
 
@@ -66,17 +66,17 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* Mayavi -  provide easy and interactive visualization of 3D data
 	
 - [ ] Others 3D plotting libraries 
-	* pptk (Point Processing Toolkit)
-	* open3d
-	* vtk
-	* pyntcloud
+	* pptk (Point Processing Toolkit) - for visualizing and processing 2-d/3-d point clouds
+	* open3d  - A Modern Library for 3D Data Processing
+	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
+	* pyntcloud - or working with 3D point clouds
 
 
 ### Challenges
 
-* due to limit hard disk - unable to have all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place
+* due to limit hard disk - unable to have all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place.
 
-* after updating macOS Catalina version 10.15.7, Anaconda-Navigator did not work. Have to reinstall Anaconda-Navigator and all libraries for this project.
+* after updating macOS Catalina version 10.15.7, Anaconda-Navigator did not work and have to reinstall Anaconda-Navigator and all libraries for this project.
 
-* Ran into problem reinstall mayavi , in order for mayavi to work on python 3.8 have to brew install vtk
+* after reinstall mayavi , mayavi did not work on python 3.8. Upon investigating, found out that have to install vtk in order for mayavi to work.
  
