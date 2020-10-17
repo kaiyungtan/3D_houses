@@ -71,6 +71,18 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
 	* pyntcloud - or working with 3D point clouds
 
+### Diagram
+
+<table style="width: 100%;" >
+<tbody>
+<tr>
+<td>
+<img src="https://github.com/kaiyungtan/3D_houses/blob/main/3.%20Diagram/3D_Houses_Belgium_Diagram_rev4.png">
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ### Challenges
 
