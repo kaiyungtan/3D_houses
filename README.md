@@ -56,14 +56,14 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [X] Discover new libraries that can be used to render a 3D plot
 
 	* glob - to search all file with the same extension
-	* geopy - 
-	* folium - 
-	* rasterio -  
-	* pyproj - 
-	* rioarray - 
-	* imageio - read
-	* matplotlib (mpl_toolkits.mplot3d) - plot 3D
-	* Mayavi - 
+	* geopy - convert physical addresses to Geographic locations
+	* folium - plot address on a map
+	* rasterio -  read and write GEOTIFF format file 
+	* pyproj - performs cartographic transformations and geodetic computations
+	* rioarray - rasterio xarray extension (xarray - working with labelled multi-dimensional arrays)
+	* imageio - interface to read and write a wide range of image data
+	* matplotlib (mpl_toolkits.mplot3d Axes3D) - plot 3D objects on a 2D matplotlib figure 
+	* Mayavi -  provide easy and interactive visualization of 3D data
 	
 - [ ] Others 3D plotting libraries 
 	* pptk (Point Processing Toolkit)
@@ -72,7 +72,11 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* pyntcloud
 
 
-### Chanllenge
+### Challenges
 
 * due to limit hard disk - unable to have all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place
+
+* after updating macOS Catalina version 10.15.7, Anaconda-Navigator did not work. Have to reinstall Anaconda-Navigator and all libraries for this project.
+
+* Ran into problem reinstall mayavi , in order for mayavi to work on python 3.8 have to brew install vtk
  
