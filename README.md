@@ -34,7 +34,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Optimize your solution to have the result as fast as possible.
 - [ ] Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
-- [ ] Better visualization.
+- [X] Better visualization
+- [X] 3D visualize on famous monuments
 
 
 ## What are the requirements ?
@@ -53,6 +54,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Create belgium houses addresses with coordinate from opendata.bosa.be website 
 
+	* Result : http://bit.ly/Belgium_Addresses
+
 - [X] Discover new libraries that can be used to render a 3D plot
 
 	* glob - to search all file with the same extension
@@ -65,7 +68,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* matplotlib (mpl_toolkits.mplot3d Axes3D) - plot 3D objects on a 2D matplotlib figure 
 	* Mayavi -  provide easy and interactive visualization of 3D data
 	
-- [ ] Others 3D plotting libraries 
+- [X] Explore others 3D plotting libraries 
 	* pptk (Point Processing Toolkit) - for visualizing and processing 2-d/3-d point clouds
 	* open3d  - A Modern Library for 3D Data Processing
 	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
@@ -86,9 +89,27 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ### Challenges
 
-* due to limit hard disk - unable to have all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place.
+* to convert an address to a latitude,longtitude coordinate 
+
+* to search the existing tif and determine which tif contain the coordinate
+
+* to clip the tif with certain window size to allow rendering in 3D  
+
+* to use new libraries to render a 3D plot 
+
+* unable to host all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place (due to limit of storage on machintosh)
 
 * after updating macOS Catalina version 10.15.7, Anaconda-Navigator did not work and have to reinstall Anaconda-Navigator and all libraries for this project.
 
 * after reinstall mayavi , mayavi did not work on python 3.8. Upon investigating, found out that have to install vtk in order for mayavi to work.
+
+### Lesson Learnt
+
+* 
+
+
+
+
+
+
  
