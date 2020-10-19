@@ -23,9 +23,9 @@ BeST: Geographical coordinates with addresses in Belgium:
 
 *	https://opendata.bosa.be/index.fr.html
 
-	* CSV Flandres  
-	* CSV Région de Bruxelles  
-	* CSV Wallonie 
+	* CSV Flandres  - https://opendata.bosa.be/download/best/openaddress-bevlg.zip
+	* CSV Région de Bruxelles  - https://opendata.bosa.be/download/best/openaddress-bebru.zip
+	* CSV Wallonie - https://opendata.bosa.be/download/best/openaddress-bewal.zip
 
 - BeSt Address provides the address information currently available in the Regions databases. 
 
@@ -82,10 +82,12 @@ BeST: Geographical coordinates with addresses in Belgium:
 
 * https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
 
+* https://github.com/VolkerH/np_obb
+
 
 ### Video Links
 
-Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial  
+Introduction to Geospatial Data Analysis with Python (SciPy 2018 Tutorial)
 
 * https://www.youtube.com/watch?v=kJXUUO5M4ok&t=2431s
 
@@ -96,9 +98,15 @@ GDAL Tutorial
 
 ### Stackoverflow & GIS (Geographic Information System) StackExchange Q&A
 
+* http://bit.ly/download_zip_from_jupyter_notebook
+
 * http://bit.ly/natural_sort
 
 * http://bit.ly/Create-Window-On-Raster
 
 * http://bit.ly/extracting-data-from-Raster
+
+* https://docs.enthought.com/mayavi/mayavi/installation.html
+
+* https://apple.stackexchange.com/questions/287200/how-do-i-install-mayavi-for-my-python3-on-macos-sierra
 
