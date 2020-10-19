@@ -35,7 +35,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [X] Optimize your solution to have the result as fast as possible.
 - [ ] Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 - [X] Better visualization
-- [X] 3D visualize on famous monuments
+- [X] 3D Belgium's monuments i.e Château,Royal Place,Abbaye,Cathédrale etc...
 
 
 ## What are the requirements ?
