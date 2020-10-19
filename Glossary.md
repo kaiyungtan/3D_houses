@@ -77,7 +77,7 @@
 
 	- GeoTIFFs files are raster image file types that are commonly used to store satellite and aerial imagery data, along with geographic metadata that describes the location in space of the image.  
 
-	* What is a Raster?
+* What is a Raster?
 	- Raster or “gridded” data are stored as a grid of values which are rendered on a map as pixels. Each pixel value represents an area on the Earth’s surface. 
 
 
