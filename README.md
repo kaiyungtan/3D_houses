@@ -46,7 +46,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 	- with those points clouds we can easily identify houses, vegetation, roads, etc...The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
-## Step
+## Steps
 
 - [X] Research and understand the term, concept and requirement of the project.
 
