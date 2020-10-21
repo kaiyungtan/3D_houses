@@ -76,12 +76,12 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Plot 3D houses only with flandres dataset.
 
-https://kaiyungtan.github.io/Examples_Code_3D_houses/Project_3D_Houses_Flandre_Beernem.html
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Flandre_Beernem.html
 
 - [X] Plot 3D houses only with wallonie dataset.
 
 
-https://kaiyungtan.github.io/Examples_Code_3D_houses/Project_3D_Houses_Wallonie_Wavre.html
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Wallonie_Wavre.html
 
 - [X] Combined both dataset to produce one single way to render 3d houses regardless where the houses are located.
 
