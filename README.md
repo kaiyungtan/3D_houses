@@ -99,6 +99,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ### Diagram
 
+- [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
+
 <table style="width: 100%;" >
 <tbody>
 <tr>
