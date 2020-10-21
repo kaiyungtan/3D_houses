@@ -63,6 +63,8 @@ BeST: Geographical coordinates with addresses in Belgium:
 
 * https://medium.com/free-code-camp/how-to-transfer-large-files-to-google-colab-and-remote-jupyter-notebooks-26ca252892fa
 
+* https://github.com/enthought/mayavi
+
 
 ### Libraries documentations
 
@@ -90,6 +92,10 @@ BeST: Geographical coordinates with addresses in Belgium:
 Introduction to Geospatial Data Analysis with Python (SciPy 2018 Tutorial)
 
 * https://www.youtube.com/watch?v=kJXUUO5M4ok&t=2431s
+
+3D Visualization with Mayavi (SciPy 2018 Tutorial)
+
+* https://www.youtube.com/watch?v=r6OD07Qq2mw 
 
 GDAL Tutorial
 
