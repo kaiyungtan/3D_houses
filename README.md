@@ -2,7 +2,13 @@
 
 to model a house in 3D with only a home address
 
-<img align="right" width="100" height="100" src=“https://github.com/kaiyungtan/3D_houses/blob/master/4.%203D%20House%20Images/3D_house_logo.png?raw=true”>
+<table style="width: 100%;" >
+<tbody>
+<td>
+<img src=“https://raw.githubusercontent.com/kaiyungtan/3D_houses/blob/master/4.%203D%20House%20Images/3D_house_logo.png?raw=true”>
+</td>
+</tbody>
+</table>
 
 https://kaiyungtan.github.io/3D_houses/
 
