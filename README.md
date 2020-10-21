@@ -2,8 +2,6 @@
 
 to model a house in 3D with only a home address
 
-![alt text](https://github.com/kaiyungtan/3D_houses/blob/media/3D_house_logo.png?raw=true)
-
 https://kaiyungtan.github.io/3D_houses/
 
 ## Mission objectives
