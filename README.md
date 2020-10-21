@@ -74,6 +74,14 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
 	* pyntcloud - or working with 3D point clouds
 
+- [X] Plot 3D houses only with flandres dataset.
+
+- [X] Plot 3D houses only with wallonie dataset.
+
+- [X] Combined both dataset to produce one single way to render 3d houses regardless where the houses are located.
+
+
+
 ### Diagram
 
 <table style="width: 100%;" >
@@ -103,9 +111,20 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 * after reinstall mayavi , mayavi did not work on python 3.8. Upon investigating, found out that have to install vtk in order for mayavi to work.
 
-### Lesson Learnt
 
-* 
+### Limitation
+
+* due to the buffer zone of each tif file, some houses can be located on 2 tifs.
+
+* geocoding of address to coordinates sometime did not give the correct location of the houses
+
+* belgium addresses.csv may not be able to provide the coordinate for the address in question, due to the address provided may not actually the same as indicated in the csv or address has been removed during the cleaning process of the data.
+
+* new houses after 2014 are not shown on the tif due to the fact the tif was dated 2014.
+
+
+
+
 
 
 
