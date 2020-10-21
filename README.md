@@ -85,7 +85,15 @@ https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses
 
 - [X] Combined both dataset to produce one single way to render 3d houses regardless where the houses are located.
 
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Arlon.html
 
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Brecht.html
+
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Dinant.html
+
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Galmaarden.html
+
+https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Gent.html
 
 ### Diagram
 
