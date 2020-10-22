@@ -87,24 +87,14 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Combined both dataset to produce one single way to render 3d houses regardless where the houses are located.
 
+	Example:
+	
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Arlon.html
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Brecht.html
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Dinant.html
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Galmaarden.html
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Gent.html
 
 
 - [X] Plot 3D monuments in Belgium
 
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Basilique_Notre-Dame_de_Bonne-Esperance.html 
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Cathedrale_Notre-Dame_de_Tournai.html 
-
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Chateau_de_Seneffe.html 
+	Example:
 
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
 
