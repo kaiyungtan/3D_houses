@@ -100,13 +100,13 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Plot 3D monuments in Belgium
 
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Basilique_Notre-Dame_de_Bonne-Espérance.html 
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Basilique_Notre-Dame_de_Bonne-Espérance.html 
 
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Cathédrale_Notre-Dame_de_Tournai.html 
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Cathédrale_Notre-Dame_de_Tournai.html 
 
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Château_de_Seneffe.html 
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Château_de_Seneffe.html 
 
-	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Royal_Palace_of_Brussels.html
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
 	 
 
 ### Diagram
