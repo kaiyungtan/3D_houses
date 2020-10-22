@@ -97,6 +97,18 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Gent.html
 
+
+- [X] Plot 3D monuments in Belgium
+
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Basilique_Notre-Dame_de_Bonne-Espérance.html 
+
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Cathédrale_Notre-Dame_de_Tournai.html 
+
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Château_de_Seneffe.html 
+
+	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Monument_Royal_Palace_of_Brussels.html
+	 
+
 ### Diagram
 
 - [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
