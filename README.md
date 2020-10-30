@@ -141,13 +141,3 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 * new houses after 2014 are not shown on the tif due to the fact the tif was dated 2014.
 
-
-
-
-
-
-
-
-
-
- 
