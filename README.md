@@ -34,7 +34,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 ## Nice-to-have features
 
 - [X] Optimize your solution to have the result as fast as possible.
-- [ ] Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 - [X] Better visualization
 - [X] 3D Belgium's monuments i.e Château,Royal Place,Abbaye,Cathédrale etc...
 
@@ -131,7 +130,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 * to use new libraries to render a 3D plot 
 
-* unable to host all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place (due to limit of storage on machintosh)
+* unable to host all the data - Flandre data (80GB) and Wallonie data (100GB) on the same place (due to limit of storage)
 
 * after updating macOS Catalina version 10.15.7, Anaconda-Navigator did not work and have to reinstall Anaconda-Navigator and all libraries for this project.
 
