@@ -114,6 +114,15 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	Example:
 
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
+	
+
+![image](https://user-images.githubusercontent.com/69633814/97797278-0e544d80-1c1c-11eb-81ab-abf183b62ed0.png)
+
+![image](https://user-images.githubusercontent.com/69633814/97797286-1d3b0000-1c1c-11eb-9846-50763163e2ce.png)
+
+![image](https://user-images.githubusercontent.com/69633814/97797269-fb417d80-1c1b-11eb-82bb-0b0177882a3a.png)
+
+![image](https://user-images.githubusercontent.com/69633814/97797295-288e2b80-1c1c-11eb-8e27-183e56893e96.png)
 
 
 ## Challenges
