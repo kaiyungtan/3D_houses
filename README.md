@@ -78,10 +78,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ## Data Cleaning
 
-- [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
-
-- [X] Use folium map to show the the address on the map 
-
 - [X] Create belgium houses addresses with coordinate from opendata.bosa.be website 
 
 	* Result : http://bit.ly/Belgium_Addresses	
@@ -89,6 +85,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ## Data Processing 
 
+- [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
+- [X] Use folium map to show the the address on the map 
 - [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
 
 <table style="width: 100%;" >
