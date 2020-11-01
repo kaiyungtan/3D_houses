@@ -120,7 +120,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 </table>
 
 
-### Challenges
+## Challenges
 
 * to convert an address to a latitude,longtitude coordinate 
 
@@ -137,7 +137,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 * after reinstall mayavi , mayavi did not work on python 3.8. Upon investigating, found out that have to install vtk in order for mayavi to work.
 
 
-### Limitation
+## Limitation
 
 * due to the buffer zone of each tif file, some houses can be located on 2 tifs.
 
