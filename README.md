@@ -2,7 +2,6 @@
 
 to model a house in 3D with only a home address
 
-https://kaiyungtan.github.io/3D_houses/
 
 ## Mission objectives
 
@@ -104,14 +103,11 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 - [X] Combined both dataset to produce one single way to render 3d houses regardless where the houses are located.
 
-	Example:
 	
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_houses/Project_3D_Houses_Belgium_Arlon.html
 
 
 - [X] Plot 3D monuments in Belgium
-
-	Example:
 
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
 	
