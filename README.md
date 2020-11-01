@@ -50,7 +50,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ## Process Flow
 
-![image](https://user-images.githubusercontent.com/69633814/97796569-d9dc9380-1c13-11eb-85b2-90471d921b1b.png)
+![image](https://user-images.githubusercontent.com/69633814/97796615-638c6100-1c14-11eb-8c03-2ad258c66999.png)
 
 ## Steps
 
