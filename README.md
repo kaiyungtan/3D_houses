@@ -89,16 +89,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [X] Use folium map to show the the address on the map 
 - [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
 
-<table style="width: 100%;" >
-<tbody>
-<tr>
-<td>
-<img src="https://github.com/kaiyungtan/3D_houses/blob/main/3.%20Diagram/3D_Houses_Belgium_Diagram_rev4.png">
-</td>
-</tr>
-</tbody>
-</table>
-
+![image](https://user-images.githubusercontent.com/69633814/97796724-e235ce00-1c15-11eb-9ba0-b708831f8961.png)
 
 ## Data Visualization
 
@@ -123,8 +114,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	Example:
 
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
-
-
 
 
 ## Challenges
