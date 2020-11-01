@@ -24,7 +24,7 @@ Consolidate the knowledge in Python, specifically in :
 
 ## The Mission
 
-We are LIDAR PLANES , active in the Geospatial industy. We would like to use our data to launch a new branch in the insurrance business. So, we need you to build a solution with our data to model a house in 3D with only a home address.
+We are LIDAR PLANES , active in the Geospatial industy. We would like to use our data to launch a new branch in the insurrance business. So, we need you to build a solution with our data to model a house in 3D with only a home address.The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
 
 ## Must-have features
@@ -38,15 +38,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [ ] Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 - [X] Better visualization
 - [X] 3D Belgium's monuments i.e Château,Royal Place,Abbaye,Cathédrale etc...
-
-
-## What are the requirements ?
-
-	- to model a house in 3D with only a home address
-
-	- with those points clouds we can easily identify houses, vegetation, roads, etc...
-	
-	- The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
 ## Process Flow
 
