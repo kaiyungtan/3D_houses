@@ -37,7 +37,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 - [X] Optimize your solution to have the result as fast as possible.
 - [ ] Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 - [X] Better visualization
-- [X] 3D Belgium's monuments i.e Château,Royal Place,Abbaye,Cathédrale etc...
+- [X] 3D Belgium's monuments i.e Château,Royal Place,Abbaye,Cathédrale etc...
 
 
 ## What are the requirements ?
@@ -45,6 +45,10 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	- to model a house in 3D with only a home address
 
 	- with those points clouds we can easily identify houses, vegetation, roads, etc...The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
+
+## Process Flow
+
+![image](https://user-images.githubusercontent.com/69633814/97796569-d9dc9380-1c13-11eb-85b2-90471d921b1b.png)
 
 ## Steps
 
