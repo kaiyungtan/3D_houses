@@ -147,3 +147,10 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 * new houses after 2014 are not shown on the tif due to the fact the tif was dated 2014.
 
+## Further Development
+
+* to host the data on an online server.
+* to develop web application allowing client to type in any address in belgium to view 3D houses.
+* to obtain latest LIDAR images so that new houses after 2014 can be rendered.
+* to incorparate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
+* to explore other 3D plotting libraries
