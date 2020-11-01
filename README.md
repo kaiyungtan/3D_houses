@@ -65,7 +65,17 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
 	* pyntcloud - or working with 3D point clouds
 	
-	
+## Data Collecting
+
+- [X] DTM file for Flandre including Brussels: http://bit.ly/DTM_Flandre
+- [X] DSM file for Flandre including Brussels: http://bit.ly/DSM_Flandre
+- [X] DTM file for Wallonie: http://bit.ly/DTM_Walloine_2013-2014
+- [X] DSM file for Wallonie: http://bit.ly/DSM_Wallonie_2013-2014
+- [X] BeST: Geographical coordinates with addresses in Belgium: https://opendata.bosa.be/index.fr.html
+- [X] CSV Flandres - https://opendata.bosa.be/download/best/openaddress-bevlg.zip
+- [X] CSV Région de Bruxelles - https://opendata.bosa.be/download/best/openaddress-bebru.zip
+- [X] CSV Wallonie - https://opendata.bosa.be/download/best/openaddress-bewal.zip
+
 ## Data Cleaning
 
 - [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
