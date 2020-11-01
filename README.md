@@ -105,7 +105,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
 
 
-### Diagram
+## Data Processing 
 
 - [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
 
