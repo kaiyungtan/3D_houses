@@ -150,7 +150,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 ## Further Development
 
 * to host the data on an online server.
-* to develop web application allowing client to type in any address in belgium to view 3D houses.
+* to develop web application allowing client to type in any address in Belgium to view 3D houses.
 * to obtain latest LIDAR images so that new houses after 2014 can be rendered.
-* to incorparate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
+* to incorporate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
 * to explore other 3D plotting libraries
