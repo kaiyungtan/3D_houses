@@ -44,7 +44,9 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 	- to model a house in 3D with only a home address
 
-	- with those points clouds we can easily identify houses, vegetation, roads, etc...The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
+	- with those points clouds we can easily identify houses, vegetation, roads, etc...
+	
+	- The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
 ## Process Flow
 
