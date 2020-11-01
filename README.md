@@ -43,17 +43,9 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ![image](https://user-images.githubusercontent.com/69633814/97796615-638c6100-1c14-11eb-8c03-2ad258c66999.png)
 
-## Steps
+## Research
 
 - [X] Research and understand the term, concept and requirement of the project.
-
-- [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
-
-- [X] Use folium map to show the the address on the map 
-
-- [X] Create belgium houses addresses with coordinate from opendata.bosa.be website 
-
-	* Result : http://bit.ly/Belgium_Addresses
 
 - [X] Discover new libraries that can be used to render a 3D plot
 
@@ -72,6 +64,35 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* open3d  - A Modern Library for 3D Data Processing
 	* vtk (Visualization Toolkit) - for 3D computer graphics image processing and visualization.
 	* pyntcloud - or working with 3D point clouds
+	
+	
+## Data Cleaning
+
+- [X] Use geopy to convert physical addresses to Geographic locations → Latitude and Longitude
+
+- [X] Use folium map to show the the address on the map 
+
+- [X] Create belgium houses addresses with coordinate from opendata.bosa.be website 
+
+	* Result : http://bit.ly/Belgium_Addresses	
+
+
+## Data Processing 
+
+- [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
+
+<table style="width: 100%;" >
+<tbody>
+<tr>
+<td>
+<img src="https://github.com/kaiyungtan/3D_houses/blob/main/3.%20Diagram/3D_Houses_Belgium_Diagram_rev4.png">
+</td>
+</tr>
+</tbody>
+</table>
+
+
+## Data Visualization
 
 - [X] Plot 3D houses only with flandres dataset.
 
@@ -96,19 +117,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 	* https://kaiyungtan.github.io/3D_houses/Examples_Code_3D_monuments/Project_3D_Monument_Royal_Palace_of_Brussels.html
 
 
-## Data Processing 
-
-- [X] The diagram below describe the flow of the process where the input is the address of the house and the output is the 3D plot of the house.
-
-<table style="width: 100%;" >
-<tbody>
-<tr>
-<td>
-<img src="https://github.com/kaiyungtan/3D_houses/blob/main/3.%20Diagram/3D_Houses_Belgium_Diagram_rev4.png">
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ## Challenges
